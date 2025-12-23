@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-minimal-settings",
+    "name": "Minimal Theme Settings",
+    "version": "8.1.1",
+    "minAppVersion": "1.1.9",
+    "description": "更改Minimal主题的颜色、字体和功能。",
+    "author": "@kepano",
+    "authorUrl": "https://www.twitter.com/kepano",
+    "fundingUrl": "https://www.buymeacoffee.com/kepano",
+    "isDesktopOnly": false
+}

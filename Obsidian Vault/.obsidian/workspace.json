@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "efc0d5ae61d3118e",
+    "type": "split",
+    "children": [
+      {
+        "id": "665b3a45dcc3a87a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea844820a1f3bd21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电路/1电路分析/1.1 电路与电路模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 电路与电路模型"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9384ee0ce6a7d996",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b31cf13e6065636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c300a072cb99c819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a00b6379c1293d39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "13909ab10649c70c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5026054382324
+  },
+  "right": {
+    "id": "6db15623edba9476",
+    "type": "split",
+    "children": [
+      {
+        "id": "a917120a9a83b5f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1f967b78deca8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-19 22.15.47.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Drawing 2025-12-19 22.15.47.excalidraw 的反向链接列表"
+            }
+          },
+          {
+            "id": "6a5f03c2d1d9574f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "0d6645a22ad3c987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c0fe7b5d00db09c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cfe05efd9c9d4b08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "38ddfe3e05480d09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "i18n:I18N": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:打开Git源代码管理": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "circuit-sketcher:Create new Circuit Sketcher file": false
+    }
+  },
+  "active": "ea844820a1f3bd21",
+  "lastOpenFiles": [
+    "123位图.svg",
+    "电路/1电路分析/1.1 电路与电路模型.md",
+    "Pasted image 20251219231110.png",
+    "电路/1电路分析/1.1的文件/2 2.svg",
+    "电路/0电路入门(极速入门数模电路)",
+    "电路/1电路分析",
+    "未命名",
+    "Pasted image 20251219221815.png",
+    "位图.svg",
+    "123333.svg",
+    "123位图 1.svg",
+    "Excalidraw/Drawing 2025-12-19 22.15.47.excalidraw.md",
+    "数据结构/一 概论.md",
+    "数据结构/二 线性表.md",
+    "微机原理(通用计算机)",
+    "单片机(微控制器)",
+    "电路/2模电",
+    "电路/3数电",
+    "数据结构/二 的文件/2 1.svg",
+    "数据结构/一 的文件/2.svg",
+    "数据结构/一 的文件/1.svg",
+    "Excalidraw/Drawing 2025-12-22 15.14.46.excalidraw.md",
+    "数据结构/二 的文件/2.excalidraw.md",
+    "数据结构/二 的文件",
+    "Excalidraw/Drawing 2025-12-22 00.06.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-22 00.39.06.excalidraw.md",
+    "Excalidraw/Untitled.circuit-sketcher",
+    "数据结构/二 线性表",
+    "try/1.md",
+    "2025-12-19.md",
+    "创建链接.md",
+    "欢迎.md",
+    "1.1.md",
+    "Excalidraw/Drawing 2025-12-19 22.14.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-19 21.42.11.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-19 22.01.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-19 21.43.54.excalidraw.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 1.md",
+    "未命名 2.md"
+  ]
+}

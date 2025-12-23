@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="fill:#fffcf8"
+   width="197.45465"
+   height="122.24086"
+   viewBox="-10.5 -592.5 197.45465 122.24086"
+   version="1.1"
+   id="svg60"
+   sodipodi:docname="2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview60"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="197.45465"
+       height="122.24086"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <style
+     id="style1"> *{stroke-linejoin: round;stroke-linecap: round}</style>
+  <defs
+     id="defs12" />
+  <rect
+     id="gridBg"
+     pointer-events="none"
+     x="-325.5"
+     y="-753.25916"
+     width="100%"
+     height="100%"
+     fill="#fffcf8"
+     stroke="none" />
+  <g
+     class="shapeBox"
+     id="g60"
+     transform="translate(-315,-160.75914)">
+    <g
+       id="835b68db5a6796f9"
+       c_partid="part">
+      <g
+         id="835b68db5a6796f9-e3"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 350,-415 h 10"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path50" />
+        <text
+           style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#000000;stroke:none"
+           id="1be64180921701b2"
+           c_partid="part_attr"
+           x="354"
+           y="-414.08502"
+           text-anchor="end"
+           dominant-baseline="ideographic"><tspan
+             xml:space="preserve"
+             x="354"
+             dx="0"
+             dy="0"
+             id="tspan51">1</tspan></text>
+      </g>
+      <g
+         id="835b68db5a6796f9-e7"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="M 390,-415 H 380"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path51" />
+        <text
+           style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#000000;stroke:none"
+           id="1b4b32d447591700"
+           c_partid="part_attr"
+           x="386"
+           y="-414.08502"
+           text-anchor="start"
+           dominant-baseline="ideographic"><tspan
+             xml:space="preserve"
+             x="386"
+             dx="0"
+             dy="0"
+             id="tspan52">2</tspan></text>
+      </g>
+      <polyline
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         points="378 -421 362 -417"
+         id="835b68db5a6796f9-e11" />
+      <circle
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         cx="378"
+         cy="-415"
+         id="835b68db5a6796f9-e12"
+         r="2" />
+      <circle
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         cx="362"
+         cy="-415"
+         id="835b68db5a6796f9-e13"
+         r="2" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#000080;stroke:none"
+         id="da330f7e98420115"
+         c_partid="part_attr"
+         x="360"
+         y="-425"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="360"
+           dx="0"
+           dy="0"
+           id="tspan53">U1</tspan></text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#0000ff;stroke:none"
+         id="7c37e11e6d81c515"
+         c_partid="part_attr"
+         x="360"
+         y="-405"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="360"
+           dx="0"
+           dy="0"
+           id="tspan54">轻触开关/软触开关(无声)/贴片6*6*5</tspan></text>
+    </g>
+    <g
+       id="1db42411ff06169f"
+       c_partid="part">
+      <g
+         id="1db42411ff06169f-e3"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 315,-375 v -10"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path54" />
+      </g>
+      <g
+         id="1db42411ff06169f-e7"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 315,-415 v 10"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path55" />
+      </g>
+      <rect
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         width="8"
+         height="20"
+         x="311"
+         y="-405"
+         rx="0"
+         ry="0"
+         id="1db42411ff06169f-e11" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#000080;stroke:none"
+         id="6128c29c45b7dcf5"
+         c_partid="part_attr"
+         x="325"
+         y="-395"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="325"
+           dx="0"
+           dy="0"
+           id="tspan55">U2</tspan></text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#0000ff;stroke:none"
+         id="30c7a399580f314c"
+         c_partid="part_attr"
+         x="325"
+         y="-385"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="325"
+           dx="0"
+           dy="0"
+           id="tspan56">KRMV0805G350NXT?</tspan></text>
+    </g>
+    <g
+       id="b83764a09b2a6879"
+       c_partid="part">
+      <g
+         id="b83764a09b2a6879-e3"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 420,-340 v -10"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path56" />
+      </g>
+      <g
+         id="b83764a09b2a6879-e7"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 420,-380 v 10"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path57" />
+      </g>
+      <rect
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         width="8"
+         height="20"
+         x="416"
+         y="-370"
+         rx="0"
+         ry="0"
+         id="b83764a09b2a6879-e11" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#000080;stroke:none"
+         id="27705ea308a2cf72"
+         c_partid="part_attr"
+         x="430"
+         y="-360"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="430"
+           dx="0"
+           dy="0"
+           id="tspan57">U3</tspan></text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#0000ff;stroke:none"
+         id="d766bcb047858ded"
+         c_partid="part_attr"
+         x="430"
+         y="-350"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="430"
+           dx="0"
+           dy="0"
+           id="tspan58">KRMV0805G350NXT?</tspan></text>
+    </g>
+    <g
+       id="1876f0cbafcb1070"
+       c_partid="part">
+      <circle
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         r="10"
+         cx="315"
+         cy="-335"
+         id="1876f0cbafcb1070-35e375ce1d97f39d" />
+      <g
+         id="1876f0cbafcb1070-c4bd48e75d6871c6"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 315,-360 v 15"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path58" />
+      </g>
+      <g
+         id="1876f0cbafcb1070-4d85b5f5a39dd3fa"
+         c_partid="part_pin"
+         noconnect="0"
+         display="">
+        <path
+           d="m 315,-310 v -15"
+           style="fill:none;stroke:#880000"
+           class="pin-bar"
+           id="path59" />
+      </g>
+      <polyline
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         points="313 -341 317 -341"
+         id="1876f0cbafcb1070-9ba8ed11d56ecc67" />
+      <polyline
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         points="315 -343 315 -339"
+         id="1876f0cbafcb1070-71485f796c5cf473" />
+      <polyline
+         style="fill:none;stroke:#a00000;stroke-width:1;stroke-dasharray:none"
+         points="313 -328 317 -328"
+         id="1876f0cbafcb1070-3a882b90d8977723" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#0000ff;stroke:none"
+         id="ba6e49fbda9fa07c"
+         c_partid="part_attr"
+         x="330"
+         y="-352"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="330"
+           dx="0"
+           dy="0"
+           id="tspan59">5V</tspan></text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:7.14834px;font-family:Arial;fill:#000080;stroke:none"
+         id="fea991d088dfca29"
+         c_partid="part_attr"
+         x="330"
+         y="-360"
+         text-anchor="start"
+         dominant-baseline="ideographic"><tspan
+           xml:space="preserve"
+           x="330"
+           dx="0"
+           dy="0"
+           id="tspan60">V1</tspan></text>
+    </g>
+    <polyline
+       points="350 -415 315 -415"
+       id="2fbbebb12dffbf60"
+       data-group-id="f45f51654ef5ab96"
+       c_partid="wire"
+       style="stroke:#008800;stroke-width:1;stroke-dasharray:none" />
+    <polyline
+       points="420 -415 420 -380"
+       id="cbf6e4c01ded451f"
+       data-group-id="88bfa037b25727f5"
+       c_partid="wire"
+       style="stroke:#008800;stroke-width:1;stroke-dasharray:none" />
+    <polyline
+       points="390 -415 420 -415"
+       id="304b23fdb7f246fe"
+       data-group-id="88bfa037b25727f5"
+       c_partid="wire"
+       style="stroke:#008800;stroke-width:1;stroke-dasharray:none" />
+    <polyline
+       points="420 -310 315 -310"
+       id="7b9e8e4bf4426864"
+       data-group-id="0072eb7e7f4c96fb"
+       c_partid="wire"
+       style="stroke:#008800;stroke-width:1;stroke-dasharray:none" />
+    <polyline
+       points="420 -340 420 -310"
+       id="532859e97aaa3c75"
+       data-group-id="0072eb7e7f4c96fb"
+       c_partid="wire"
+       style="stroke:#008800;stroke-width:1;stroke-dasharray:none" />
+    <polyline
+       points="315 -375 315 -360"
+       id="e12c177e6de09c9f"
+       data-group-id="240d5855fd4656ac"
+       c_partid="wire"
+       style="stroke:#008800;stroke-width:1;stroke-dasharray:none" />
+  </g>
+</svg>
