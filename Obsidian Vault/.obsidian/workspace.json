@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "try/1.md",
+                "file": "电路/1电路分析/1.1 电路与电路模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "1.1 电路与电路模型"
             }
           }
         ]
@@ -198,8 +198,9 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "c300a072cb99c819",
+  "active": "ea844820a1f3bd21",
   "lastOpenFiles": [
+    "try/1.md",
     "电路/1电路分析/1.1 电路与电路模型.md",
     "123位图.svg",
     "Pasted image 20251219231110.png",
@@ -228,7 +229,6 @@
     "Excalidraw/Drawing 2025-12-22 00.39.06.excalidraw.md",
     "Excalidraw/Untitled.circuit-sketcher",
     "数据结构/二 线性表",
-    "try/1.md",
     "2025-12-19.md",
     "创建链接.md",
     "欢迎.md",
