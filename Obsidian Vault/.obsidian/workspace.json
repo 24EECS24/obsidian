@@ -11,14 +11,13 @@
             "id": "ea844820a1f3bd21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "电路/1电路分析/1.1 电路与电路模型.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "1.1 电路与电路模型"
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           }
         ]
@@ -200,11 +199,13 @@
   },
   "active": "ea844820a1f3bd21",
   "lastOpenFiles": [
-    "try/1.md",
+    "未命名.base",
+    "未命名 1.base",
     "电路/1电路分析/1.1 电路与电路模型.md",
+    "电路/1电路分析/1.1的文件/2 2.svg",
+    "try/1.md",
     "123位图.svg",
     "Pasted image 20251219231110.png",
-    "电路/1电路分析/1.1的文件/2 2.svg",
     "电路/0电路入门(极速入门数模电路)",
     "电路/1电路分析",
     "未命名",
@@ -228,7 +229,6 @@
     "Excalidraw/Drawing 2025-12-22 00.06.41.excalidraw.md",
     "Excalidraw/Drawing 2025-12-22 00.39.06.excalidraw.md",
     "Excalidraw/Untitled.circuit-sketcher",
-    "数据结构/二 线性表",
     "2025-12-19.md",
     "创建链接.md",
     "欢迎.md",
