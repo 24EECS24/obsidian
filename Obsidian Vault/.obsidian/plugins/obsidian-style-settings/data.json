@@ -1,0 +1,16 @@
+{
+  "Editor@@h1-size": "2.5em",
+  "Editor@@h1-accent-color@@light": "#AD0000",
+  "Editor@@h1-accent-color@@dark": "#52FFFF",
+  "Editor@@h1-color-select": "h1-color-designated",
+  "Editor@@h2-size": "2em",
+  "Editor@@h2-accent-color@@light": "#00209A",
+  "Editor@@h2-accent-color@@dark": "#FFDF65",
+  "Editor@@h2-color-select": "h2-color-designated",
+  "Editor@@h3-size": "1.5em",
+  "Editor@@h3-accent-color@@light": "#612B09",
+  "Editor@@h3-accent-color@@dark": "#9ED4F6",
+  "Editor@@h3-color-select": "h3-color-designated",
+  "Editor@@text-highlight-bg@@light": "#C9E6C9",
+  "Editor@@text-highlight-bg@@dark": "#371936"
+}
