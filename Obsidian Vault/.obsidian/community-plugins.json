@@ -9,5 +9,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-circuitjs",
-  "circuit-sketcher"
+  "circuit-sketcher",
+  "better-export-pdf"
 ]

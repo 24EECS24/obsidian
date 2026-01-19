@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1.1 电路与电路模型"
             }
+          },
+          {
+            "id": "b51f74aa3513feda",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,6 +197,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "obsidian42-brat:BRAT": false,
       "i18n:I18N": false,
       "switcher:打开快速切换": false,
@@ -192,13 +206,12 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:打开Git源代码管理": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "ea844820a1f3bd21",
+  "active": "b51f74aa3513feda",
   "lastOpenFiles": [
     "未命名.md",
     "电路/1电路分析/1.1 电路与电路模型.md",
