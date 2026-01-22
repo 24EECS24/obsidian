@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "665b3a45dcc3a87a",
+        "id": "d1d80333c5822076",
         "type": "tabs",
         "children": [
           {
-            "id": "ea844820a1f3bd21",
+            "id": "fb799bb71745bfa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电路/1电路分析/1.1 电路与电路模型.md",
-                "mode": "preview",
+                "file": "English/名词/名词.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 电路与电路模型"
+              "title": "名词"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,15 +199,16 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "ea844820a1f3bd21",
+  "active": "fb799bb71745bfa4",
   "lastOpenFiles": [
+    "English/动词/动词.md",
+    "电路/1电路分析/1.1 电路与电路模型.md",
     "try/1.md",
     "数据结构/二 的文件/1.svg",
     "数据结构/二 的文件/2.svg",
     "数据结构/二 的文件/2 1.svg",
     "数据结构/二 的文件/2.excalidraw.md",
     "数据结构/二 线性表.md",
-    "电路/1电路分析/1.1 电路与电路模型.md",
     "电路/1电路分析/1.1的文件/2 2.svg",
     "未命名.md",
     "未命名.base",
