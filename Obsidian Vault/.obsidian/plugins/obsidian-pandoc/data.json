@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "E:\\pandoc-3.8.3\\pandoc.exe",
+  "pdflatex": null,
+  "outputFolder": "E:\\桌面\\pandoc-pdf",
+  "extraArguments": "",
+  "exportFrom": "html"
+}
