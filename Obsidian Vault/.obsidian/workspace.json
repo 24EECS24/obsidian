@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +196,7 @@
       "obsidian-git:打开Git源代码管理": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "circuit-sketcher:Create new Circuit Sketcher file": false,
-      "pkmer:Open Pkmer Market": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "f688e3cc98e20dc0",

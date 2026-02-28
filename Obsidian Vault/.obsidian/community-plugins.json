@@ -11,5 +11,7 @@
   "obsidian-circuitjs",
   "circuit-sketcher",
   "better-export-pdf",
-  "pkmer"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-latex-suite",
+  "obsidian-export-image"
 ]
