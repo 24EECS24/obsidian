@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/动词/动词.md",
+                "file": "微积分/高阶线性微分方程/高阶线性微分方程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动词"
+              "title": "高阶线性微分方程"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "f688e3cc98e20dc0",
   "lastOpenFiles": [
+    "English/动词/动词.md",
     "English/动词/动词的形式.excalidraw.svg",
     "English/动词/动词的形式.excalidraw.md",
     "English/动词/动词的分类.excalidraw.svg",
@@ -209,7 +210,6 @@
     "数据结构/一 概论.md",
     "数据结构/二 线性表.md",
     "数据结构/二 的文件/1.svg",
-    "English/动词/动词.md",
     "English/名词/名词.md",
     "电路/1电路分析/1.1 电路与电路模型.md",
     "try/1.md",
@@ -227,7 +227,6 @@
     "未命名",
     "Pasted image 20251219221815.png",
     "位图.svg",
-    "123333.svg",
     "Excalidraw/Drawing 2025-12-19 22.15.47.excalidraw.md",
     "微机原理(通用计算机)",
     "单片机(微控制器)",
