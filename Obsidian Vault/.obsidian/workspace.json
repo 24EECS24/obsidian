@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50271224975586
+    "width": 249.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "6db15623edba9476",
@@ -173,14 +174,23 @@
               "icon": "git-pull-request",
               "title": "源代码管理"
             }
+          },
+          {
+            "id": "15c8ae7b1048bc89",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +209,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f688e3cc98e20dc0",
+  "active": "15c8ae7b1048bc89",
   "lastOpenFiles": [
     "A 微积分/高阶线性微分方程/高阶线性微分方程.md",
     "A 微积分/无穷级数/级数敛散性的判别方法/级数敛散性的判别方法.md",
