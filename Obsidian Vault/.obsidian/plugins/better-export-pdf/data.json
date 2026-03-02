@@ -1,11 +1,11 @@
 {
   "showTitle": true,
   "maxLevel": "6",
-  "displayHeader": true,
-  "displayFooter": true,
+  "displayHeader": false,
+  "displayFooter": false,
   "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"title\"></span></div>",
   "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>",
-  "printBackground": false,
+  "printBackground": true,
   "generateTaggedPDF": false,
   "displayMetadata": false,
   "debug": false,
@@ -14,7 +14,7 @@
   "concurrency": "5",
   "prevConfig": {
     "pageSize": "Custom",
-    "marginType": "1",
+    "marginType": "0",
     "showTitle": true,
     "open": true,
     "scale": 100,
