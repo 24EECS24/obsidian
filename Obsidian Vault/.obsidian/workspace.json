@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50271224975586,
-    "collapsed": true
+    "width": 249.50271224975586
   },
   "right": {
     "id": "6db15623edba9476",
@@ -190,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +209,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dfbf29135c1b2aa3",
+  "active": "c300a072cb99c819",
   "lastOpenFiles": [
+    "A 微积分/无穷级数/未命名",
     "A 微积分/Text/Text.md",
     "A 微积分/微分方程/高阶线性微分方程/高阶线性微分方程.md",
     "A 微积分/无穷级数/幂级数及其收敛域/幂级数及其收敛域.md",
