@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50271224975586,
-    "collapsed": true
+    "width": 249.50271224975586
   },
   "right": {
     "id": "6db15623edba9476",
@@ -190,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +209,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dfbf29135c1b2aa3",
+  "active": "c300a072cb99c819",
   "lastOpenFiles": [
+    "A 微积分/错题",
     "A 微积分/无穷级数/幂级数及其收敛域/幂级数及其收敛域.md",
     "A 微积分/无穷级数/幂级数求和函数与函数展开/幂级数求和函数与函数展开.md",
     "B English/text.md",
@@ -252,7 +253,6 @@
     "English/动词/动词的形式.excalidraw.md",
     "English/动词/动词的分类.excalidraw.svg",
     "English/动词/动词的分类.excalidraw.md",
-    "数据结构/一 概论.md",
     "数据结构/二 的文件/1.svg",
     "数据结构/二 的文件/2.svg",
     "数据结构/二 的文件/2 1.svg",
