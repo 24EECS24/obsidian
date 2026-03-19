@@ -14,5 +14,6 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-latex-suite",
   "obsidian-export-image",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-tikzjax"
 ]
