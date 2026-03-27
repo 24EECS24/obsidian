@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.50271224975586,
-    "collapsed": true
+    "width": 249.50271224975586
   },
   "right": {
     "id": "6db15623edba9476",
@@ -190,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,14 +211,14 @@
   },
   "active": "2a94540e90794530",
   "lastOpenFiles": [
-    "2 错题本/text.md",
-    "2 错题本/函数定义域.md",
+    "1 微积分/微分方程/1 微分方程的概念/微分方程的概念.md",
     "2 错题本/导数.md",
+    "2 错题本/函数定义域.md",
+    "2 错题本/text.md",
     "未命名 2.base",
     "未命名 1.base",
     "3 English/text.md",
     "1 微积分/Text/Text.md",
-    "1 微积分/微分方程/1 微分方程的概念/微分方程的概念.md",
     "电路/1电路分析/1.1 电路与电路模型.md",
     "电路/1电路分析/1.1的文件/2 2.svg",
     "2 错题本",
