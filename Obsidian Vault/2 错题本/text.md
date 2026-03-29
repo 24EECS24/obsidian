@@ -1,13 +1,13 @@
-````col
-```col-md
+`````col
+````col-md
 flexGrow=1
 ===
 
 Column A
 
-```
+````
 
-```col-md
+````col-md
 flexGrow=1
 ===
 
@@ -15,8 +15,8 @@ Column B
 
 
 
-```
 ````
+`````
 ````col
 ```col-md
 
