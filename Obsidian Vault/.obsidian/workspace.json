@@ -206,11 +206,18 @@
       "obsidian-git:打开Git源代码管理": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "circuit-sketcher:Create new Circuit Sketcher file": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "2a94540e90794530",
   "lastOpenFiles": [
+    "textgenerator/configs/llm/Ollama_1_002444.json.md",
+    "textgenerator/configs/llm/Ollama_1.json.md",
+    "textgenerator/configs/llm",
+    "textgenerator/configs",
+    "textgenerator",
     "2 错题本/导数.md",
     "2 错题本/text.md",
     "2 错题本/函数的定义域与值域.md",
@@ -233,10 +240,7 @@
     "3 English/动词/动词.md",
     "3 English/时态",
     "3 English/名词",
-    "3 English/动词",
-    "3 English",
     "未命名.md",
-    "未命名 9.base",
     "1 微积分/微分方程/3 高阶线性微分方程/高阶线性微分方程.md",
     "1 微积分/微分方程/高阶线性微分方程/高阶线性微分方程.md",
     "1 微积分/微分方程/3高阶线性微分方程/高阶线性微分方程.md",
@@ -250,7 +254,6 @@
     "2 English/名词/名词.md",
     "2 English/text.md",
     "A 微积分/无穷级数/幂级数求和函数与函数展开/幂级数求和函数与函数展开.md",
-    "1 微积分/无穷级数/级数敛散性的判别方法/级数敛散性的判别方法.md",
     "1 微积分/无穷级数/常数项级数的概念与性质/q的取值分为5种情况.excalidraw.svg",
     "A 微积分/无穷级数/常数项级数的概念与性质/q的取值分为5种情况.excalidraw.svg",
     "B English/动词/动词的形式.excalidraw.svg",
