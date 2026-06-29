@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "函数的定义域与值域"
             }
-          },
-          {
-            "id": "83f3a7c89de6b45f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +209,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "83f3a7c89de6b45f",
+  "active": "2a94540e90794530",
   "lastOpenFiles": [
     "textgenerator/configs/llm/Ollama_1_002444.json.md",
     "textgenerator/configs/llm/Ollama_1.json.md",
